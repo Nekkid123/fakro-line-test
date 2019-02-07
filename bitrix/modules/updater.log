@@ -1,0 +1,18 @@
+2018-08-27 23:45:32 -  - exec CUpdateClient::GetUpdatesList
+2018-08-27 23:45:32 -  - exec CUpdateClient::CollectRequestData
+2018-08-27 23:45:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=F&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=fakro-line.ru&CHHB=fakro-line.ru&CSAB=127.0.0.1&SUID=d606301834e6c5963a7c03dfc21e7f91&CANGZIP=Y&CLIENT_PHPVER=7.1.18&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_seo=18.0.0&bitm_bitrixcloud=17.5.0&bitm_iblock=17.6.3&bitm_compression=16.0.0&bitm_clouds=17.0.2&bitm_landing=18.3.0&bitm_highloadblock=17.5.0&bitm_translate=16.0.0&bitm_socialservices=17.5.4&bitm_perfmon=17.0.1&bitm_rest=18.0.0&bitm_ui=17.6.0&bitm_b24connector=17.5.0&bitm_messageservice=18.0.0&bitm_search=17.5.1&bitm_fileman=17.5.12&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-08-27 23:45:32 -  - exec CUpdateClient::GetHTTPPage
+2018-08-27 23:45:32 -  - TIME GetUpdatesList(request) 0.3 sec
+2018-08-27 23:45:32 -  - exec CUpdateClient::ParseServerData
+2019-01-30 15:48:59 -  - exec CUpdateClient::GetUpdatesList
+2019-01-30 15:48:59 -  - exec CUpdateClient::CollectRequestData
+2019-01-30 15:48:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=F&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=fakro-line.ru&CHHB=fakro-line.ru&CSAB=127.0.0.1&SUID=d606301834e6c5963a7c03dfc21e7f91&CANGZIP=Y&CLIENT_PHPVER=7.1.18&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_seo=18.0.0&bitm_bitrixcloud=17.5.0&bitm_iblock=17.6.3&bitm_compression=16.0.0&bitm_clouds=17.0.2&bitm_landing=18.3.0&bitm_highloadblock=17.5.0&bitm_translate=16.0.0&bitm_socialservices=17.5.4&bitm_perfmon=17.0.1&bitm_rest=18.0.0&bitm_ui=17.6.0&bitm_b24connector=17.5.0&bitm_messageservice=18.0.0&bitm_search=17.5.1&bitm_fileman=17.5.12&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2019-01-30 15:48:59 -  - exec CUpdateClient::GetHTTPPage
+2019-01-30 15:49:00 -  - TIME GetUpdatesList(request) 0.603 sec
+2019-01-30 15:49:00 -  - exec CUpdateClient::ParseServerData
+2019-01-30 16:16:07 -  - exec CUpdateClient::GetUpdatesList
+2019-01-30 16:16:07 -  - exec CUpdateClient::CollectRequestData
+2019-01-30 16:16:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=F&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=fakro-line.ru&CHHB=fakro-line.ru&CSAB=127.0.0.1&SUID=d606301834e6c5963a7c03dfc21e7f91&CANGZIP=Y&CLIENT_PHPVER=7.1.18&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_seo=18.0.0&bitm_bitrixcloud=17.5.0&bitm_iblock=17.6.3&bitm_compression=16.0.0&bitm_clouds=17.0.2&bitm_landing=18.3.0&bitm_highloadblock=17.5.0&bitm_translate=16.0.0&bitm_socialservices=17.5.4&bitm_perfmon=17.0.1&bitm_rest=18.0.0&bitm_ui=17.6.0&bitm_b24connector=17.5.0&bitm_messageservice=18.0.0&bitm_search=17.5.1&bitm_fileman=17.5.12&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2019-01-30 16:16:07 -  - exec CUpdateClient::GetHTTPPage
+2019-01-30 16:16:07 -  - TIME GetUpdatesList(request) 0.722 sec
+2019-01-30 16:16:07 -  - exec CUpdateClient::ParseServerData

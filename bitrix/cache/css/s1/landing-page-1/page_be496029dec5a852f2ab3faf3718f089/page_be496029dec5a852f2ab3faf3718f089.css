@@ -1,0 +1,114 @@
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/menu/menu-top/style.min.css?1529415833490*/
+ul.left-menu{list-style:none;margin:0;padding:0;margin-bottom:8px;position:relative}ul.left-menu li{padding:10px 16px;background:#f5f5f5 url(/bitrix/templates/landing-page-1/components/bitrix/menu/menu-top/images/left_menu_bg.gif) top repeat-x}ul.left-menu li a{font-size:100%;color:#bc262c;font-weight:bold;text-decoration:none}ul.left-menu li a:visited{color:#bc262c}ul.left-menu li a:hover{color:#bc262c}ul.left-menu li a.selected:link,ul.left-menu li a.selected:visited,ul.left-menu li a.selected:active,ul.left-menu li a.selected:hover{color:#fc8d3d}
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/banner/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/service/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/features/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/faq/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/feedback/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/landing-page-1/components/bitrix/news.list/gallery/style.css?1529415833150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/templates/landing-page-1/components/bitrix/menu/menu-top/style.min.css?1529415833490 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/banner/style.css?1529415833150 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/service/style.css?1529415833150 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/features/style.css?1529415833150 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/faq/style.css?1529415833150 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/feedback/style.css?1529415833150 */
+/* /bitrix/templates/landing-page-1/components/bitrix/news.list/gallery/style.css?1529415833150 */

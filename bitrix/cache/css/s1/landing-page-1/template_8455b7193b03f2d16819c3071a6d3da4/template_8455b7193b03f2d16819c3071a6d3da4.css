@@ -1,0 +1,103 @@
+
+
+/* Start:/bitrix/templates/landing-page-1/styles.css?15433994651860*/
+.pricing-block-container .pricing-block-price .currency {
+    font-size: 30px;
+    vertical-align: baseline;
+}
+
+.cta-block-container #bx_incl_area_1_7 {
+    display: inline-block;
+    float: left;
+}
+
+.fancybox-nav {
+    outline: none!important;
+}
+
+#map {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 568px   ;
+}
+
+.form-control-feedback {
+    height: 44px;
+    line-height: 44px;
+}
+
+.has-error .form-control,
+.has-success .form-control {
+    border: none;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+}
+
+.help-block {
+    position: absolute;
+    bottom: -12px;
+}
+
+.form-group {
+    margin: 0px auto 35px;
+}
+
+.modal-body {
+    padding: 55px 15px 15px 15px;
+}
+ul.navbar-nav>li>a {
+    outline: none;
+}
+.cta-block-container a:focus {
+    color: #d32f2f;
+}
+#modal_item .modal-header .modal-title {
+    margin: 0px 0px 20px 0px;
+}
+#modal_item .modal-header p {
+    margin: 0px 0px 10px 0px;
+}
+.pricing-block-button {
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+}
+@media screen and (max-width:767px) {
+    .pricing-block-button {
+        bottom: 30px;
+    }
+}
+.pricing-block-container {
+    /*position: relative;*/
+    padding-bottom: 100px;
+}
+a {
+    outline: none!important;
+}
+.phones {
+	text-align: right;
+	font-size: 18px;
+}
+.phones a {
+	color: #439835;
+}
+.btn-gfort, .btn-gfort:focus {
+	background-color: #439835 !important;
+}
+.content-block-container i.circle-icon-block, .content-block-container i.circle-icon-block:focus {
+	background-color: #439835 !important;
+	color: white !important;
+}
+.content-block-container i.circle-icon-block:hover {
+	color: #439835 !important;
+	background-color: white !important;
+}
+.cta-block-container.white-content a {
+	color: #439835 !important;
+}
+ul.navbar-nav>li>a:not(.btn):hover, ul.navbar-nav>li.active>a:not(.btn) {
+	border-bottom-color: #439835 !important;	
+}
+/* End */
+/* /bitrix/templates/landing-page-1/styles.css?15433994651860 */
